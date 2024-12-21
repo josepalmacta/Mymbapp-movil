@@ -43,6 +43,7 @@ Para descargar y ejecutar el proyecto siga estos pasos:
 
 - Clonar el repositorio (`git clone https://github.com/josepalmacta/Mymbapp-movil.git`)
 - Abrir la carpeta del proyecto con su IDE de preferencia (Probado en VScode).
+- Descargar las dependecias necesarias (`flutter pub get`)
 
 
 
