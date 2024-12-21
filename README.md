@@ -1,10 +1,10 @@
 <div style="width:100%; background-color:#0004fd;">
   <p align="center">
-    <img src="https://github.com/josepalmacta/mymbapp-src/blob/master/logo.jpg?raw=true" alt="logo" />
+    <img src="https://github.com/josepalmacta/mymbapp-src/blob/master/logo.png?raw=true" alt="logo" />
   </p>
 </div>
 
->App movil desarrollada con flutter de una Aplicacion Web para la organizacion sin fines de lucro Mymba. La aplicacion permite crear publicaciones acerca de mascotas perdidas, encontradas o que se encuentren en adopcion con integracion de e-commerce para recaudar fondos.
+>App movil desarrollada con flutter de una Aplicacion Web para la organizacion sin fines de lucro Mymba. La aplicacion permite crear publicaciones acerca de mascotas perdidas, encontradas o que se encuentren en adopcion, recibir notificaciones por ubicacion ademas de un e-commerce para recaudar fondos.
 
 
 
@@ -17,7 +17,7 @@ WebApp   :  https://github.com/josepalmacta/Mymbapp
 
 
 
-  Pagina de inicio         |   Mapa interactivo        |  Notificaciones
+Pagina de inicio           |   Mapa interactivo        |  Notificaciones
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/josepalmacta/mymbapp-src/blob/master/app-inicio.jpg?raw=true)|![](https://github.com/josepalmacta/mymbapp-src/blob/master/app-mapa.gif?raw=true)|![](https://github.com/josepalmacta/mymbapp-src/blob/master/app-notif.jpg?raw=true)
 
