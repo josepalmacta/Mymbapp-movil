@@ -17,12 +17,12 @@ WebApp   :  https://github.com/josepalmacta/Mymbapp
 
 
 
-Pagina de inicio           |   Mapa interactivo        |  Notificaciones
+ Pagina de inicio          |   Mapa interactivo        |  Notificaciones
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/josepalmacta/mymbapp-src/blob/master/app-inicio.jpg?raw=true)|![](https://github.com/josepalmacta/mymbapp-src/blob/master/app-mapa.gif?raw=true)|![](https://github.com/josepalmacta/mymbapp-src/blob/master/app-notif.jpg?raw=true)
 
 
- Busqueda                  |   Posts                   |  Tienda
+ Busqueda                  |   Posts                  |  Tienda
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/josepalmacta/mymbapp-src/blob/master/app-busqueda.jpg?raw=true)|![](https://github.com/josepalmacta/mymbapp-src/blob/master/app-posts.jpg?raw=true)|![](https://github.com/josepalmacta/mymbapp-src/blob/master/app-prod.jpg?raw=true)
 
